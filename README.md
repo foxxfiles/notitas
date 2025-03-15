@@ -27,8 +27,7 @@ The Sticky Notes Application is a Python desktop program built with the Tkinter 
 ### Prerequisites
 
 - Python 3.x (Tkinter is usually included)
-- (Optional) A virtual environment for dependency management
-
+- Windows exe binaries (https://github.com/foxxfiles/notitas/blob/main/dist/notitas.exe)
 ### Steps
 
 1. **Clone the Repository:**
