@@ -19,7 +19,7 @@ The Sticky Notes Application is a Python desktop program built with the Tkinter 
 - **Resizing:** Adjust note dimensions dynamically.
 - **Persistence:** Automatically save note configurations to `config.json` to maintain state between sessions.
 - **Context Menus:** Use context menus for quick access to functions such as note creation, deletion, and customization.
-
+![Descripción de la imagen](https://example.com/path/to/image.png)
 ## Installation
 
 ### Prerequisites
