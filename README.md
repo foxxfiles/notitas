@@ -31,5 +31,6 @@ The Sticky Notes Application is a Python desktop program built with the Tkinter 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/foxxfiles/sticky-notes-app.git
-   cd sticky-notes-app
+   git clone https://github.com/foxxfiles/notitas
+   cd notityas
+   python notitas.py
